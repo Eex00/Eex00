@@ -26,9 +26,12 @@ Hi there! I'm **Ex0**, a passionate learner from **Belgium** diving into the fas
 
 ## 🌐 Let's Connect!
 
-Feel free to reach out, collaborate, or just say hi!  
+Feel free to reach out, collaborate, or just say hi!
+
 👀 **Gunz.lol**: https://guns.lol/9mmmm
+
 🌍 **Location**: Belgium  
+
 💡 **Fun Fact**: I’m always excited to learn something new, especially when it involves cybersecurity challenges.
 
 ---
