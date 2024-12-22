@@ -68,3 +68,6 @@ Feel free to reach out, collaborate, or just say hi!
 ---
 
 Thanks for stopping by! 🌟
+
+![Cybersecurity GIF](https://i.pinimg.com/originals/e7/55/bc/e755bc37531461dbdb6c76d167da6b28.gif)
+
