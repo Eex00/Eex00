@@ -3,6 +3,10 @@
 ![Visitor Count](https://profile-counter.glitch.me/Eex00/count.svg)
 
 
+![Snake animation](https://github.com/Eex00/snake/blob/output/snake.svg)
+
+
+
 Hi there! I'm **Ex0**, a passionate learner from **Belgium** diving into the fascinating world of **cybersecurity**. 🛡️ I'm honing my skills, breaking barriers, and exploring the digital realm one step at a time.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eex00&show_icons=true&theme=transparent)
