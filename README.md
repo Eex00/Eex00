@@ -1,8 +1,8 @@
 # 👋 Welcome to Ex0's GitHub! 
 
 
+![](https://komarev.com/ghpvc/?username=Eex00&style=for-the-badge&color=brightgreen)
 
-![](https://komarev.com/ghpvc/?username=Eex00)
 
 ![Snake animation](https://github.com/Eex00/snake/raw/output/snake.svg)
 
