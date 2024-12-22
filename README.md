@@ -24,18 +24,10 @@ Hi there! I'm **Ex0**, a passionate learner from **Belgium** diving into the fas
 
 ---
 
-## 📊 Snake Animation
-
-Watch this space as I continuously contribute and grow! Here's a fun way to see my GitHub activity over time:
-
-![Snake animation](https://github.com/ex0/<YOUR_REPOSITORY_NAME>/raw/output/snake.svg)
-
----
-
 ## 🌐 Let's Connect!
 
 Feel free to reach out, collaborate, or just say hi!  
-📧 **Email**: [your_email@example.com]  
+👀 **Gunz.lol**: https://guns.lol/9mmmm
 🌍 **Location**: Belgium  
 💡 **Fun Fact**: I’m always excited to learn something new, especially when it involves cybersecurity challenges.
 
