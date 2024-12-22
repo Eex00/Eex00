@@ -2,7 +2,6 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/Eex00/count.svg)
 
-![Snake animation](https://github.com/Eex00/snake/raw/output/snake.svg)
 
 Hi there! I'm **Ex0**, a passionate learner from **Belgium** diving into the fascinating world of **cybersecurity**. 🛡️ I'm honing my skills, breaking barriers, and exploring the digital realm one step at a time.
 
