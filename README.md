@@ -1,14 +1,16 @@
 # 👋 Welcome to Ex0's GitHub! 
 
-
-![](https://komarev.com/ghpvc/?username=Eex00&style=for-the-badge&color=brightgreen)
-
+![Visitor Count](https://profile-counter.glitch.me/Eex00/count.svg)
 
 ![Snake animation](https://github.com/Eex00/snake/raw/output/snake.svg)
 
 Hi there! I'm **Ex0**, a passionate learner from **Belgium** diving into the fascinating world of **cybersecurity**. 🛡️ I'm honing my skills, breaking barriers, and exploring the digital realm one step at a time.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eex00&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ex00)
+
+![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)
 
 ---
 
@@ -32,6 +34,24 @@ Hi there! I'm **Ex0**, a passionate learner from **Belgium** diving into the fas
 
 - Sharpening my skills in **cybersecurity** practices and tools.
 - Expanding my knowledge in **Python programming** and its applications in security.
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Eex00)
+
+---
+
+## 💼 Projects
+
+Here are some of my current and past projects:
+
+### 1. **[Project Shadow Mint](https://github.com/Eex00/Project-shadow-mint)** 
+- Description: Down any of your website 'EDUCATIONAL PURPOSE ONLY'.
+- Technologies: Python.
+
+### 2. **[Invisible Network](https://github.com/Eex00/Invisible-network)**
+- Description: Browse on the internet while being completly invisible.
+- Technologies: None.
+
+Feel free to explore these repositories!
 
 ---
 
