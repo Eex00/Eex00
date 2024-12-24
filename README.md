@@ -41,7 +41,6 @@ Hi there! I'm **Ex0**, a passionate learner from **Belgium** diving into the fas
 - Sharpening my skills in **cybersecurity** practices and tools.
 - Expanding my knowledge in **Python programming** and its applications in security.
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Eex00)
 
 ---
 
