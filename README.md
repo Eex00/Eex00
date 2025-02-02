@@ -2,13 +2,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/Eex00/count.svg)
 
-
 ![Snake animation](https://raw.githubusercontent.com/Eex00/Eex00/refs/heads/output/snake.svg)
-
-
-
-
-
 
 Hi there! I'm **Ex0**, a passionate learner from **Belgium** diving into the fascinating world of **cybersecurity**. 🛡️ I'm honing my skills, breaking barriers, and exploring the digital realm one step at a time.
 
@@ -41,7 +35,6 @@ Hi there! I'm **Ex0**, a passionate learner from **Belgium** diving into the fas
 - Sharpening my skills in **cybersecurity** practices and tools.
 - Expanding my knowledge in **Python programming** and its applications in security.
 
-
 ---
 
 ## 💼 Projects
@@ -53,10 +46,27 @@ Here are some of my current and past projects:
 - Technologies: Python.
 
 ### 2. **[Invisible Network](https://github.com/Eex00/Invisible-network)**
-- Description: Browse on the internet while being completly invisible.
+- Description: Browse on the internet while being completely invisible.
 - Technologies: None.
 
 Feel free to explore these repositories!
+
+---
+
+## 🔐 Challenges Root Me Résolus
+
+Here is a list of the challenges I solved on [**Root Me**](https://www.root-me.org/).
+
+### TELNET
+- **[Challenge TELNET 1](https://www.root-me.org/fr/Challenges/Reseau/TELNET-authentification)**
+
+### FTP
+- **[Challenge FTP 1](https://www.root-me.org/fr/Challenges/Reseau/FTP-Authentification)**
+
+### TCP
+- **[Challenge TCP 1](https://www.root-me.org/fr/Challenges/Programmation/TCP-Retour-au-college)**
+- **[Challenge TCP 2](https://www.root-me.org/fr/Challenges/Programmation/TCP-Chaine-encodee)**
+- **[Challenge TCP 3](https://www.root-me.org/fr/Challenges/Programmation/TCP-La-roue-romaine)**
 
 ---
 
@@ -75,4 +85,3 @@ Feel free to reach out, collaborate, or just say hi!
 Thanks for stopping by! 🌟
 
 ![Cybersecurity GIF](https://i.pinimg.com/originals/e7/55/bc/e755bc37531461dbdb6c76d167da6b28.gif)
-
