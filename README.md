@@ -45,9 +45,9 @@ Here are some of my current and past projects:
 - Description: Down any of your website 'EDUCATIONAL PURPOSE ONLY'.
 - Technologies: Python.
 
-### 2. **[Invisible Network](https://github.com/Eex00/Invisible-network)**
-- Description: Browse on the internet while being completely invisible.
-- Technologies: None.
+### 2. **[Youtube Downloader](https://github.com/Eex00/youtube-downloader)**
+- Description: Download any YouTube videos you want and choose where you want to save them
+- Technologies: Python.
 
 Feel free to explore these repositories!
 
