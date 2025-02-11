@@ -53,7 +53,7 @@ Feel free to explore these repositories!
 
 ---
 
-## 🔐 Challenges Root Me Résolus
+## 🔐 Challenges Root Me Resolved
 
 Here is a list of the challenges I solved on [**Root Me**](https://www.root-me.org/).
 
