@@ -8,7 +8,7 @@ Hi there! I'm **Ex0**, a passionate learner from **Belgium** diving into the fas
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eex00&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ex00)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eex00)
 
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)
 
