@@ -72,7 +72,7 @@ Here is a list of the challenges I solved on [**Root Me**](https://www.root-me.o
 
 Feel free to reach out, collaborate, or just say hi!
 
-👀 **Gunz.lol**: https://guns.lol/9mmmm
+👀 **Gunz.lol**: https://guns.lol/4am
 
 🌍 **Location**: Belgium  
 
