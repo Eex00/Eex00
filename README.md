@@ -1,6 +1,5 @@
 # 👋 Welcome to Ex0's GitHub! 
 
-![Visitor Count](https://profile-counter.glitch.me/Eex00/count.svg)
 
 ![Snake animation](https://raw.githubusercontent.com/Eex00/Eex00/refs/heads/output/snake.svg)
 
